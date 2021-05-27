@@ -2,7 +2,7 @@
 #### A simple script that extracts all important data of all Yu-Gi-Oh cards from the official Konami site 'Yu-Gi-Oh! TCG Card Database'
 
 ### Configs:
-- The url of the page is: https://www.db.yugioh-card.com/yugiohdb/?request_locale=en
+- The URL of the page is: https://www.db.yugioh-card.com/yugiohdb/?request_locale=en
 - The script uses the Python Scrapy framework
 - The script extracts the name, level (therefore, rank and link), type, ATK, DEF and description of each card (in spell or trap cards it only extracts what is necessary)
 
