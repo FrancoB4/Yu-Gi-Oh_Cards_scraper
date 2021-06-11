@@ -10,5 +10,5 @@
 - The value 'n / a' in any key represents 'not applicable', referring to the cards that do not have that key
 - In the current state, the script can extract all the cards listed in the 'booster pack' entry in the page list (approximately 13000 cards)
 
-### How that work?
+### How does it work?
 #### Coming soon...
